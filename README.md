@@ -1,2 +1,2 @@
 # git-demo
-Demo repository 
+Demo repository GIt & GitHub
