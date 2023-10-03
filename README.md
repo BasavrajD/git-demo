@@ -59,4 +59,3 @@ If change in same part in different branches and we are trying to git merge then
 # Fork:
 It is a rough copy.
 Fork is a new repo that shares code and visibility settings with the original "upstream" repository.
-![image](https://github.com/BasavrajD/git-demo/assets/112759581/84da6c1b-e85c-4f69-94e5-f66e44957149)
